@@ -16,7 +16,6 @@
     },
     "scripts": {
         "start": "npx webpack-dev-server",
-        "deploy": "npm run start"
     },
     "author": "Blair MacIntyre <blair@cc.gatech.edu>",
     "license": "CC BY-NC-SA 4.0"
