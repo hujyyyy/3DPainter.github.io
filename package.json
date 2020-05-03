@@ -15,7 +15,7 @@
         "webpack-dev-server": "^3.10.1"
     },
     "scripts": {
-        "start": "npx webpack-dev-server",
+        "start": "npx webpack-dev-server"
     },
     "author": "Blair MacIntyre <blair@cc.gatech.edu>",
     "license": "CC BY-NC-SA 4.0"
