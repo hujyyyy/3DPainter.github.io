@@ -10,7 +10,7 @@ This 3D painter program for VR device. You can draw with stroke and straight lin
 # Demo
 Line tool: 
 
-![alt-text](gif/line.gif`|width=100)
+![alt-text](gif/line.gif`)
 
 Pen tool:
 
